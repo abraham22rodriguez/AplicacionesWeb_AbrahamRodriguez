@@ -1,0 +1,30 @@
+body{
+    background-color: lightcyan;
+}
+
+div{
+    margin-left: 380px;
+    margin-top: 100px;
+    width: 750px;
+    height: 550px;
+    background-color:black;
+}
+
+.imagen{
+    width: 300px;
+    height: 550px;
+    background-image: url(https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,f_jpg,g_xy_center,h_900,q_60,w_640,x_2368,y_0/v1/clients/lasvegas/Homepage_Marquee_VoiceOfTourism_20b3f1a2-64c2-4f39-9c50-509fb817f899.jpg);
+}
+
+.texto{
+    float: right;
+    background-color: black;
+    color: white;
+    width: 430px;
+    height: 550;
+    font-family: cursive;
+    margin-left: 30px;
+    padding-top: 200px;
+    font-size: large;
+
+}
