@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}.imagen{
+    margin-left: 600px;
+    margin-top: 200px;
+    width: 280px;
+    height: 90px;
+}
+.buscador{
+    margin-top: 20px;
+    margin-left: 515px;
+  background-size: 24px;
+  width: 400px;
+  height: 15px;
+  border: transparent;
+  border: solid 1px #ccc;
+  border-radius: 20px;
+  padding: 10px 10px 10px 30px;
+  outline: none;
+}
+.menu1{
+    background-color: white;
+    padding: 0px;
+    font-size: 13px;
+    padding-left: 1300px;
+    
+    }
+    
+    .mmenu1 ul{
+        list-style: none;
+    
+    }
+    
+    .menu1 li{
+        display: inline;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    }
+    
+    .menu1 li a{
+        text-decoration: none;
+        color: rgb(26, 24, 24);
+    }
+    .menu1 li a:hover{
+        color: gray;
+    }
+
+
+    
+    .boton_personalizado{
+        text-decoration: none;
+        padding: 10px;
+        font-weight: 400;
+        font-size: 20px;
+        color: gray;
+        background-color: white;
+        border-radius: 6px;
+        border: 2px solid gray;
+        margin-top: 100px;
+        margin-left: 400px;
+      }
+    
